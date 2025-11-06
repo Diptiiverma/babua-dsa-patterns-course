@@ -35,7 +35,7 @@ Links will be updated as the series goes live!
 
 | Day | Topic / Pattern | 🎥 Video Link | 🗒️ Notes | ✅ Done |
 |-----|------------------|---------------|-----------|--------|
-| 0 | Course Introduction | [Watch Now](https://www.youtube.com/@CodingwithCTOBhaiya) | [Notes](#) | ⬜ |
+| 0 | Course Introduction | [Watch Now](https://www.youtube.com/@CodingwithCTOBhaiya) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/0_Day/0_Intro_To_Patterns_Course.excalidraw.png) | ⬜ |
 
 ---
 
@@ -51,8 +51,7 @@ Links will be updated as the series goes live!
 ## 🌟 Connect & Learn
 
 - 📺 [YouTube Channel](https://www.youtube.com/@CodingwithCTOBhaiya)  
-- 💼 [LinkedIn](https://linkedin.com/in/ctobhaiya)  
-- 🧑‍💻 [Discord Community](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anuj-kumar-9a188968/)  
 - 🌐 [Website](#)
 
 ---
